@@ -5,5 +5,14 @@ h1{
     font-size: medium;
 }
 .para{
-    font-size: smaller;
+    font-size:26px;
+    color: red;
+    font-weight: 200;
+    border: 10px solid black;
+    margin: 12px;
+    padding:12px;
+
+}
+body{
+    background-color: lightblue;
 }
