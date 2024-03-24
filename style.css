@@ -11,8 +11,10 @@ h1{
     border: 10px solid black;
     margin: 12px;
     padding:12px;
+    overflow: hidden;
 
 }
 body{
     background-color: lightblue;
 }
+
